@@ -2,17 +2,17 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
-      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
-      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-      "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
-      "select_ads":"ADMOB",
+      "status_redirect":"0",
+      "link_redirect":"https://play.google.com/store/apps/details?id=",
+      "admob_inter":"ca-app-pub-9707905170887135/6995684380",
+      "admob_banner":"ca-app-pub-9707905170887135/7902459992",
+      "admob_open_ads":"ca-app-pub-9707905170887135/2266989934",
+      "select_ads":"APPLOVIN",
       "interval":"5",
-      "unityID":"3896203",
+      "unityID":"4710465",
       "unity_banner":"bannerid",
       "unity_inter":"video",
-      "startappid":"206190008"   ,
+      "startappid":"203827489"   ,
       "kidoz_pub_id":"14481",
       "kidoz_token":"bfWpFB4N7oPTlys96ZNnXOd2rG6Aooub"
     }
