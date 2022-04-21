@@ -1,0 +1,107 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
+      "select_ads":"ADMOB",
+      "interval":"5",
+      "unityID":"3896203",
+      "unity_banner":"bannerid",
+      "unity_inter":"video",
+      "startappid":"206190008"   ,
+      "kidoz_pub_id":"14481",
+      "kidoz_token":"bfWpFB4N7oPTlys96ZNnXOd2rG6Aooub"
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Boyfriend",
+      "image":"https://th.bing.com/th/id/OIP.VUpbcogBSWzdz4p5O-5ktQHaI8?pid=ImgDet&rs=1"
+    },
+    {
+      "title": "Boyfriend",
+      "image": "https://th.bing.com/th/id/OIP.0oY_FZvmdBe0soBRzxfPsgHaIB?pid=ImgDet&rs=1"
+    },
+    {
+      "title":"Whitty",
+      "image":"https://art.ngfiles.com/images/1695000/1695582_cluelessnoob_whitty-fanart.png?f1615932838"
+    }, 
+    {
+      "title":"Among US",
+      "image":"https://gartic.com.br/imgs/mural/ra/raulstart/among-us.png"
+    },
+    {
+      "title":"Tabi",
+      "image":"https://th.bing.com/th/id/OIP.47IQKgs48IAam32M2TECrgHaGG?pid=ImgDet&rs=1"
+    },
+    {
+      "title":"Carol",
+      "image":"https://th.bing.com/th/id/OIP.kGPnQLumQoFAO_XmYYxbTwHaGG?pid=ImgDet&rs=1"
+    },
+    {
+      "title":"Mikku",
+      "image":"https://live.staticflickr.com/3193/2910275090_210552999c.jpg"
+    },
+ 
+    {
+      "title":"Boyfriend",
+      "image":"https://th.bing.com/th/id/OIP.-Oa8nRPHb-I1J4CwMkrNKgHaFc?pid=ImgDet&rs=1"
+    },
+    {
+      "title":"Pico vs Boyfriend",
+      "image":"https://th.bing.com/th/id/OIP.odT0z1RwVwYhPijmq7dZEgHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "title":"Flippy vs Boyfriend",
+      "image":"https://gartic.com.br/imgs/mural/su/sushi_com_shoyu/friday-night-funkin-vs-flippy.png"
+    }, 
+    {
+      "title":"Mod Character",
+      "image":"https://art.ngfiles.com/comments/351000/iu_351058_9327690.jpg"
+    },
+    
+      {
+      "title":"Mod Character",
+      "image":"https://art.ngfiles.com/images/1580000/1580951_hogobrogh_kids-out-at-night.png?f1610108652"
+    },
+      {
+      "title":"Mod Character",
+      "image":"https://art.ngfiles.com/thumbnails/1664000/1664620_full.png?f1614417966"
+    },
+      {
+      "title":"Mod Character",
+      "image":"https://th.bing.com/th/id/OIP.ePkCgck8_JgNswnAIU8jkAHaE-?pid=ImgDet&rs=1"
+    },
+      {
+      "title":"Mom and Dad",
+      "image":"https://th.bing.com/th/id/OIP.4rO4g19ZNJFxUbvTTuqiwgHaHa?pid=ImgDet&rs=1"
+    },
+      {
+      "title":"Mod Character",
+      "image":"https://th.bing.com/th/id/OIP.ldXkTpqNoJ49IBYJJQ_TjgHaFB?pid=ImgDet&rs=1"
+    },
+      {
+      "title":"Mod Character",
+      "image":"https://art.ngfiles.com/images/1587000/1587431_noobjew666_friday-night-funkin-vs-courage-the-cowardly-dog.png?f1610435345"
+    },
+      {
+      "title":"Mod Character",
+      "image":"https://art.ngfiles.com/thumbnails/1583000/1583320_full.png?f1610230836"
+    },
+      {
+      "title":"Mod Character",
+      "image":"https://art.ngfiles.com/images/1541000/1541246_blaffsaffingo_tgi-friday-funkin.jpg?f1607794623"
+    },
+    {
+      "title":"Mod Character",
+      "image":"https://th.bing.com/th/id/OIP.JRQw9Jcc0Y8FKcLQ4Pm1ggHaJB?pid=ImgDet&rs=1"
+    }    
+  ]
+
+}
